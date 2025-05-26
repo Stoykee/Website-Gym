@@ -1,0 +1,244 @@
+.body-za-boju{
+    background-color: #fff !important;
+}
+
+body{
+
+    background-color: #F17829 !important;
+}
+
+ul.navbar-nav>li>a{
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>li>a{
+    letter-spacing: 0.15rem;
+}
+section{
+    margin-top: 2rem;
+}
+.list-unstyled li.bottom-border-red{
+    padding: 1.5rem;
+    border-bottom: 1px solid #000000;
+}
+.list-unstyled li a{
+    text-decoration: none;
+    color: black;
+}
+.list-unstyled li a:hover{
+    color: #323232;
+}
+.my-unstyled-list{
+    list-style: none;
+}
+.primarna-pozadina{
+    background-color: aqua!important;
+}
+
+.secondarna-pozadina{
+    background-color: aqua !important;
+}
+.primarna-boja-slova .primarna-boja-slova a{
+    color: white !important;
+}
+.active{
+    background-color: #BF5700 !important;
+    border-radius: 0.33rem !important;
+}
+.active:hover{
+    background-color: transparent !important;
+}
+.social-icon:hover{
+    background-color: #5A3161 !important;
+    border-radius: 50% !important
+}
+input{
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 25);
+}
+
+/*Footer*/
+
+.primarna-pozadina-footer{
+    background-color: #fff !important;
+}
+
+footer li a{
+    color: black !important;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    padding: 0.2rem;
+    transition: color 0.4s ease-in;
+}
+footer a:hover{
+    
+    background-color: #BF5700 !important;
+    border-radius: 0.33rem !important;
+    transition: 1s;
+
+}
+footer p{
+    color: #323232;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+footer a{
+    color: #323232;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+footer{   
+    text-align: center !important;
+    flex-shrink: 0;
+    margin-top: auto; 
+}
+footer ul{
+    text-align: center;
+}
+/*ZAVRSETAK CSS ZA FOOTER*/
+
+address a{
+    /*color: #323232 !important;*/
+    color: #fff !important;
+    text-decoration: none;
+}
+.container{
+    margin: 0 auto;
+    width: 950px;
+}
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #424242;
+    --bs-btn-border-color: #424242;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #FF8C00;
+    --bs-btn-hover-border-color: #FF8C00;
+}
+/*.vl{
+    border-left: 2px solid rgb(78, 78, 78);
+    height: 770px;
+    padding: 10px;
+}*/
+.slika{
+    width: 800px;
+    height: 850px;
+}
+.okvir-teksta{
+    position: absolute;
+    border-radius: 0.33rem;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    bottom: 50px;
+    right: 400px;
+    left: 400px;
+    padding: 10px;
+}
+.okvir-teksta1{
+    
+    border-radius: 0.33rem;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    bottom: 50px;
+    right: 400px;
+    left: 350px;
+    padding: 10px;
+}
+.stil-slova{
+    text-transform: uppercase;
+}
+.slide{
+    width: 1600px;
+    height: 850px;
+    margin-left: 150px;
+}
+.okvir-teksta2{
+    
+    border-radius: 0.33rem;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    bottom: 50px;
+    right: 400px;
+    left: 350px;
+    padding: 10px;
+    width: 250px;
+}
+.okvir-teksta3{
+    
+    border-radius: 0.33rem;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    bottom: 50px;
+    right: 400px;
+    left: 350px;
+    padding: 10px;
+    width: 450px;
+}
+.okvir-teksta4{
+    
+    border-radius: 0.33rem;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    bottom: 50px;
+    right: 400px;
+    left: 350px;
+    padding: 10px;
+    width: 450px;
+}
+.logo-onama{
+    border-radius: 0.33rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.stampa>a{
+    color: #000000 !important;
+    text-decoration: none;
+}
+.dugme-stampa{
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.dugme-stampa1{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.dugme-stampa p{
+   color: #000000;
+}
+
+div button a{
+    text-decoration: none;
+    color: #000000;
+}
+.hover1:hover{
+    color: #fff;
+}
+
+.okvir-teksta5{
+    
+    border-radius: 0.33rem;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    bottom: 50px;
+    right: 400px;
+    left: 350px;
+    padding: 10px;
+    width: 620px;
+    margin-bottom: 10px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.dugme-cenovnik{
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.izgledTeksta{
+    font-size: 18px;
+}
